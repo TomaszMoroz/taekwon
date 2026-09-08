@@ -59,7 +59,7 @@ const schedule = {
     'Grupa początkująca': { 'Środa': '15:00', 'Piątek': '15:00' }
   },
   'Pręgowo Taekwon-do': {
-    'Grupa początkująca': { 'Wtorek': '14:30 - 16:30', 'Czwartek': '14:30 - 16:30' }
+    'Grupa początkująca': { 'Wtorek': '15:30 - 16:30', 'Czwartek': '15:30 - 16:30' }
   }
 }
 
